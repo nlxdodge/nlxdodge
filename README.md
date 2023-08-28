@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nlxdodge&show_icons=true&theme=transparent" alt="Github Stats of NLxDoDge" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlxdodge&layout=compact&theme=transparent&card_width=320" alt="Top languages of NLxDoDge" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlxdodge&layout=compact&theme=transparent&card_width=250" alt="Top languages of NLxDoDge" />
 </a>
 
 ### Currently Working On 🚀
