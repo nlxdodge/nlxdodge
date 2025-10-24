@@ -3,7 +3,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=nlxdodge&show_icons=true&theme=transparent" alt="Github Stats of NLxDoDge" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlxdodge&layout=compact&theme=transparent&card_width=250" alt="Top languages of NLxDoDge" />
 </a>
 
