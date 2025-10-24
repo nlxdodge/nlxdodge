@@ -9,6 +9,6 @@
 
 ### Currently Working On 🚀
 
-- Learning Japanese 🔰
-- Learning Rust ⚙
-- Getting better with Java 17+ (And getting OCP certified) ☕
+- Learning Japanese and German 🇯🇵 🇩🇪
+- Learning Rust 🦀
+- Getting better with Java 21+ (And getting OCP certified) ☕
